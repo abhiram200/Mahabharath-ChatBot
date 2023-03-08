@@ -32,3 +32,5 @@ python3 AI_MODEL.py
 # Error Fix
 
 If you're facing any errors in the code after doing these then please go to the website https://www.nltk.org/data.html then follow the mannual installation steps to download punkt from tokenizers, omw,omw-1.4, omw_lexicon, and wordnet from corpora.
+
+Also dlib needs to be properly installed and added to system's path.
