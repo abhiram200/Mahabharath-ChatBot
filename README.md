@@ -17,6 +17,14 @@ The above link does not make a dataset based on mahabharath instead it makes the
 
 # Run the following command to install the necessary python files
 
+git clone https://github.com/abhiram200/Mahabharath-ChatBot.git
+
 cd Mahabharath-ChatBot
 
 pip install -r Requirements.txt
+
+python3 AI_MODEL.py
+
+# Error Fix
+
+If you're facing any errors in the code after doing these then please go to the website https://www.nltk.org/data.html then follow the mannual installation steps to download punkt from tokenizers, omw,omw-1.4, omw_lexicon, and wordnet from corpora.
