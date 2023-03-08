@@ -23,7 +23,8 @@ cd Mahabharath-ChatBot
 
 pip install -r Requirements.txt
 
-FOR LINUX   -  cd AI\ CHAT\ MODEL/
+FOR LINUX   -  cd AI\ CHAT\ MODEL/   
+
 FOR WINDOWS -  cd "AI CHAT MODEL"
 
 python3 AI_MODEL.py
