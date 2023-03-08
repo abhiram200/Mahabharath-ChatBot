@@ -13,3 +13,10 @@ if you want to modify the dataset according to your own dataset then you can edi
 You may also visit this link for creating the intents.json file....     https://github.com/abhiram200/JSON-DataSet-Maker
 
 The above link does not make a dataset based on mahabharath instead it makes the dataset for a normal chat-bot.
+
+
+# Run the following command to install the necessary python files
+
+cd Mahabharath-ChatBot
+
+pip install -r Requirements.txt
