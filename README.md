@@ -1,4 +1,4 @@
-# Mahabharath-ChatBot
+# ChatBot
 
 This is a basic chat-bot trained on the basis of Mahabharath.
 
